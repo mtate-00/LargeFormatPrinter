@@ -33,3 +33,10 @@
 | | PEI Build Plate + Magnetic Sticker  | 2x  | 500x500  |
 | | 10x11mm Cable Chain  | 3m  | Y Axis  |
 | | 10x15mm Cable Chain  | 3m  | Z Axis  |
+| | Octopus Pro V1.1 | 1x |  |
+| | SSR DC-AC | 2x |  |
+| | RPi 4B | 1x |  |
+| | MeanWell LRS 350 PSU | 1x |  |
+| | Filtered Inlet | 1x | with Switch |
+| |   |   |   |
+| **Toolhead** | See VZbot Toolhead BOM  |   | |
