@@ -1,7 +1,7 @@
 
 | Section | Item | QTY | NOTES |
 | ------------- | ------------- | ------------- | ------------- |
-|  **Frame** | PG30-6060-1300mm  | 4x  | Uprights  |
+|  **Frame** | PG30-6060-1500mm  | 4x  | Uprights  |
 | | PG30-3060-800mm  | 4x  | X-axis horizontal  |
 | | PG30-3060-1200mm  | 4x  | Y-Axis horizontal  |
 | | PG30-3060-1260mm  | 2x  | Bed Frame  |
@@ -39,4 +39,4 @@
 | | MeanWell LRS 350 PSU | 1x |  |
 | | Filtered Inlet | 1x | with Switch |
 | |   |   |   |
-| **Toolhead** | See VZbot Toolhead BOM  |   | |
+| **Toolhead** | See VZbot Toolhead BOM  |   | https://github.com/VzBoT3D/Vz-Printhead-CNC/tree/main |
