@@ -27,6 +27,7 @@
 | | 6mm GT2 Pulley  | 1x  |   |
 | | 9mm GT2 Gates Belt  | 8m  |   |
 | | 6mm GT2 Gates Belt  | 2m  |   |
+| | M5x1 Precision Shims  | 20  |   |
 | |   |   |   |
 | **Electronics** | Nema17  | 7x  | 4x Z, 2x Y, 1x X  |
 | | AC Bed Heater  | 2x  | fit a 500x500 bed, 1500W  |
