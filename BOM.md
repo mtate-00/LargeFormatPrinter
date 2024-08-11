@@ -1,7 +1,7 @@
 
 | Section | Item | QTY | NOTES |
 | ------------- | ------------- | ------------- | ------------- |
-|  **Frame** | PG30-6060-1500mm  | 4x  | Uprights  |
+|  **Frame** | PG30-6060-1500mm  | 4x  | Uprights  | 
 | | PG30-3060-800mm  | 4x  | X-axis horizontal  |
 | | PG30-3060-1200mm  | 4x  | Y-Axis horizontal  |
 | | PG30-3060-1260mm  | 2x  | Bed Frame  |
@@ -10,6 +10,7 @@
 | | Angle Bracket - PG30-60x60  | 8x  |   |
 | | Inner Corner Bracket - PG30  | 24x  |   |
 | | Joining Plate - PG30-3030 T Shape  | 8x  |   |
+| | above is likely to be sourced from moduasm  |   |   |
 | |   |   |   |
 | **Motion System** | [HGH15CA-1000mm](https://cnconline.co.za/products/linear-rail-hgr15-x-500mm-with-2-x-hgh15ca-blocks?variant=41386933780646)  | 4x  | Z Axis Linear Rails  |
 | | [SFU1204-1000mm](https://cnconline.co.za/products/ball-screw-with-nut-sfu1204-x-400mm?variant=43802800914598)  | 4x  | Z Axis Ball Screws  |
@@ -31,7 +32,7 @@
 | |   |   |   |
 | **Electronics** | Nema17  | 7x  | 4x Z, 2x Y, 1x X  |
 | | AC Bed Heater  | 2x  | [fit a 500x500 bed, 1500W](https://ratrig.com/keenovo-heater-pad-and-ssr-relays-multiple-sizes-configurations.html)  |
-| | PEI Build Plate + Magnetic Sticker  | 2x  | 500x500  |
+| | PEI Build Plate + Magnetic Sticker  | 2x  | 500x500 (ideally 1x 1000x500 but 2x 500x500 is okay) |
 | | 10x11mm Cable Chain  | 3m  | Y Axis  |
 | | 10x15mm Cable Chain  | 3m  | Z Axis  |
 | | Octopus Pro V1.1 | 1x |  |
