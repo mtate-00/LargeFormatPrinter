@@ -30,7 +30,7 @@
 | | M5x1 Precision Shims  | 20  |   |
 | |   |   |   |
 | **Electronics** | Nema17  | 7x  | 4x Z, 2x Y, 1x X  |
-| | AC Bed Heater  | 2x  | fit a 500x500 bed, 1500W  |
+| | AC Bed Heater  | 2x  | [fit a 500x500 bed, 1500W](https://ratrig.com/keenovo-heater-pad-and-ssr-relays-multiple-sizes-configurations.html)  |
 | | PEI Build Plate + Magnetic Sticker  | 2x  | 500x500  |
 | | 10x11mm Cable Chain  | 3m  | Y Axis  |
 | | 10x15mm Cable Chain  | 3m  | Z Axis  |
