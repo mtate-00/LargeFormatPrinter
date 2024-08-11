@@ -11,15 +11,15 @@
 | | Inner Corner Bracket - PG30  | 24x  |   |
 | | Joining Plate - PG30-3030 T Shape  | 8x  |   |
 | |   |   |   |
-| **Motion System** | HGH15CA-1000mm  | 4x  | Z Axis Linear Rails  |
-| | SFU1204-1000mm  | 4x  | Z Axis Ball Screws  |
-| | SFU1204-Nut  | 4x  |   |
-| | SFU1204-Seat  | 4x  |   |
+| **Motion System** | [HGH15CA-1000mm](https://cnconline.co.za/products/linear-rail-hgr15-x-500mm-with-2-x-hgh15ca-blocks?variant=41386933780646)  | 4x  | Z Axis Linear Rails  |
+| | [SFU1204-1000mm](https://cnconline.co.za/products/ball-screw-with-nut-sfu1204-x-400mm?variant=43802800914598)  | 4x  | Z Axis Ball Screws  |
+| | SFU1204-Nut  | 4x  |  (usually included with ball screw) |
+| | [SFU1204-Seat](https://cnconline.co.za/products/sfu12-nut-housing)  | 4x  |   |
 | | Spider Coupling  | 4x  | 5-8mm, driving z ball screws  |
 | | 6200 Bearing  | 8x  | Z Ball Screw Lower Support  |
 | | 608zz bearing  | 4x  | Z Ball Screw Upper Support  |
-| | MGN12H-1200mm  | 2x  | Y Axis Linear Rails  |
-| | MGN12H-550mm  | 1x  | X Axis Linear Rail  |
+| | [MGN12H-1200mm](https://cnconline.co.za/products/linear-rail-mgn12-with-mgn12h-block-multiple-length-options?variant=44939845107878)  | 2x  | Y Axis Linear Rails - 1200mm ideal but 1000 is okay  |
+| | [MGN12H-550mm](https://cnconline.co.za/products/linear-rail-mgn12-with-mgn12h-block-multiple-length-options?variant=44939845075110)  | 1x  | X Axis Linear Rail - 550mm ideal but 500 is okay  |
 | | 9mm GT2 toothed idler  | 5x  |   |
 | | F695  | 18x  |   |
 | | 695 non-flanged  | 6x  |   |
