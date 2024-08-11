@@ -46,6 +46,10 @@
 | | Hextrudort  | 1x  | [silver](https://www.aliexpress.com/item/1005006121253410.html?spm=a2g0o.detail.pcDetailBottomMoreThisSeller.2.43996FCH6FCHmd&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.291025.0&scm_id=1007.13339.291025.0&scm-url=1007.13339.291025.0&pvid=05fb4482-2c3a-4232-a3ee-7b711cf6d394&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.291025.0,pvid:05fb4482-2c3a-4232-a3ee-7b711cf6d394,tpp_buckets:668%232846%238112%231997&pdp_npi=4%40dis%21ZAR%21274.88%21252.89%21%21%2115.00%2113.80%21%40211b813b17233067836072390ee660%2112000036371654831%21rec%21ZA%214714140911%21XZ&utparam-url=scene%3ApcDetailBottomMoreThisSeller%7Cquery_from%3A)  |
 | | VZ CNC Toolhead  | 1x  | [ratrig version (MGN12H top mount, silver)](https://www.aliexpress.com/item/1005005738653240.html?pdp_npi=4%40dis%21ZAR%21ZAR%20320.69%21ZAR%20256.55%21%21%2117.50%2114.00%21%402103890917233066961985948edd37%2112000034168571379%21sh%21ZA%214714140911%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007473650367.1005005738653240)  |
 | | VZ Universal Adapter  | 1  | [silver](https://www.aliexpress.com/item/1005005738653240.html?pdp_npi=4%40dis%21ZAR%21ZAR%20320.69%21ZAR%20256.55%21%21%2117.50%2114.00%21%402103890917233066961985948edd37%2112000034168571379%21sh%21ZA%214714140911%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007473650367.1005005738653240)  |
+| | 0.4, 0.6, 0.8, 1.0, 1.2, 1.4mm nozzles  | 2x ea  | CHT Preferred (I believe these would be standard v6 nozzles to fit the goliath)  |
+| |   |   |   |
+| |   |   |   |
+
 
 
 
