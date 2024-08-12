@@ -12,6 +12,8 @@
 | | Joining Plate - PG30-3030 T Shape  | 8x  |   |
 | | above is likely to be sourced from moduasm  |   |   |
 | |   |   |   |
+
+DOM:
 | **Motion System** | [HGH15CA-1000mm](https://cnconline.co.za/products/linear-rail-hgr15-x-500mm-with-2-x-hgh15ca-blocks?variant=41386933780646)  | 4x  | Z Axis Linear Rails  |
 | | [SFU1204-1000mm](https://cnconline.co.za/products/ball-screw-with-nut-sfu1204-x-400mm?variant=43802800914598)  | 4x  | Z Axis Ball Screws  |
 | | SFU1204-Nut  | 4x  |  (usually included with ball screw) |
