@@ -9,7 +9,8 @@
 | | PG20-2020-640mm  | 1x  | X Axis Gantry  |
 | | Angle Bracket - PG30-60x60  | 8x  |   |
 | | Inner Corner Bracket - PG30  | 24x  |   |
-| | Joining Plate - PG30-3030 T Shape  | 8x  |   |
+| | Joining Plate - PG30-3030 T Shape  | 24x  |   |
+| | Joining Plate - PG30-3030 + Shape  | 16x  |   |
 | | above is likely to be sourced from moduasm  |   |   |
 | |   |   |   |
 | **Motion System** | [HGH15CA-1000mm](https://cnconline.co.za/products/linear-rail-hgr15-x-500mm-with-2-x-hgh15ca-blocks?variant=41386933780646)  | 4x  | Z Axis Linear Rails  |
