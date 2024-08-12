@@ -5,6 +5,7 @@
 | | PG30-3060-800mm  | 4x  | X-axis horizontal  |
 | | PG30-3060-1200mm  | 4x  | Y-Axis horizontal  |
 | | PG30-3060-1260mm  | 2x  | Bed Frame  |
+| | PG30-3060-860mm  | 4x  | Bed Frame  |
 | | PG20-4040-1300mm  | 2x  | Y Axis Gantry  |
 | | PG20-2020-640mm  | 1x  | X Axis Gantry  |
 | | Angle Bracket - PG30-60x60  | 8x  |   |
