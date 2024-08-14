@@ -21,9 +21,7 @@
 | | M5x1 Precision Shims  | 20  |   |
 | | 10x11mm Cable Chain  | 3m  | Y Axis  |
 | | 10x15mm Cable Chain  | 3m  | Z Axis  |
-| | Octopus Pro V1.1 | 1x |  |
 | | SSR DC-AC | 2x |  |
-| | RPi 4B | 1x |  |
 | | MeanWell LRS 350 PSU | 1x |  |
 | | Filtered Inlet | 1x | with Switch |
 | | 0.4, 0.6, 0.8, 1.0, 1.2, 1.4mm nozzles  | 2x ea  | CHT Preferred (I believe these would be standard v6 nozzles to fit the goliath)  |
@@ -38,7 +36,9 @@
 | | VZ CNC Toolhead  | 1x  | [ratrig version (MGN12H top mount, silver)](https://www.aliexpress.com/item/1005005738653240.html?pdp_npi=4%40dis%21ZAR%21ZAR%20320.69%21ZAR%20256.55%21%21%2117.50%2114.00%21%402103890917233066961985948edd37%2112000034168571379%21sh%21ZA%214714140911%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007473650367.1005005738653240)  |
 | | VZ Universal Adapter  | 1  | [silver](https://www.aliexpress.com/item/1005005738653240.html?pdp_npi=4%40dis%21ZAR%21ZAR%20320.69%21ZAR%20256.55%21%21%2117.50%2114.00%21%402103890917233066961985948edd37%2112000034168571379%21sh%21ZA%214714140911%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007473650367.1005005738653240)  |
 | |   |   |   |
-| |   |   |   |
+| **DO NOT SOURCE** |   |   |   |
+| | Octopus Pro V1.1 | 1x |  |
+| | RPi 4B | 1x |  |
 
 
 
