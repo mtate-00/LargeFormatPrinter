@@ -36,9 +36,17 @@
 | | VZ CNC Toolhead  | 1x  | [ratrig version (MGN12H top mount, silver)](https://www.aliexpress.com/item/1005005738653240.html?pdp_npi=4%40dis%21ZAR%21ZAR%20320.69%21ZAR%20256.55%21%21%2117.50%2114.00%21%402103890917233066961985948edd37%2112000034168571379%21sh%21ZA%214714140911%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007473650367.1005005738653240)  |
 | | VZ Universal Adapter  | 1  | [silver](https://www.aliexpress.com/item/1005005738653240.html?pdp_npi=4%40dis%21ZAR%21ZAR%20320.69%21ZAR%20256.55%21%21%2117.50%2114.00%21%402103890917233066961985948edd37%2112000034168571379%21sh%21ZA%214714140911%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2007473650367.1005005738653240)  |
 | |   |   |   |
-| **DO NOT SOURCE** |   |   |   |
-| | Octopus Pro V1.1 | 1x |  |
-| | RPi 4B | 1x |  |
+| **New Electronics** |   |   |   |
+| | Wago Mounting Carrier | 2x | [link](https://acdc.co.za/installation-wiring-accessories-skirting-racking/36733-mounting-carrier-for-2-3-5-way-wago-221-4mm2-connectors.html) |
+| | wago 221 2 way (0.14-4mm2) | 10x | [link](https://acdc.co.za/installation-wiring-accessories-skirting-racking/36323-wago-221-lever-type-2-way-splicing-connector-014-4mm2.html) |
+| | wago 221 3 way (0.14-4mm2) | 10x | [link](https://acdc.co.za/installation-wiring-accessories-skirting-racking/36323-wago-221-lever-type-3-way-splicing-connector-014-4mm2.html) |
+| | wago 221 5 way (0.14-4mm2) | 10x | [link](https://acdc.co.za/installation-wiring-accessories-skirting-racking/36731-wago-221-lever-type-5-way-splicing-connector-014-4mm2.html) |
+| | 2.5mm cage din terminal | 12x | [link](https://acdc.co.za/terminals-insulators-busbar-supports-flex-solid-busbar/12146-25mm-cage-din-terminal.html) |
+| | End plate for JST2.5 Terminal | 6x | [link](https://acdc.co.za/terminals-insulators-busbar-supports-flex-solid-busbar/7134-end-plate-for-jst25-terminal.html) |
+| | Fixed bridge for jst2.5 terminal | 2x | [link](https://acdc.co.za/terminals-insulators-busbar-supports-flex-solid-busbar/12799-fixed-bridge-for-jst25-terminal.html) |
+| | electronics enclosure (steel) | 1x | [link](https://acdc.co.za/ilinox-mb-quadritalia-other-enclosures-engraving-label/14241-grey-msteel-enclosure-500x400x200-ip65.html) |
+| | Grey slotted trunking 25Wx25H 2m | 4x | [link](https://acdc.co.za/installation-wiring-accessories-skirting-racking/60495-grey-slotted-trunking-25wx25h-2m-wide.html) |
+| | item | qty | link |
 
 
 
